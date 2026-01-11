@@ -1,6 +1,5 @@
 import { Route, Routes } from 'react-router-dom'
 import { useEffect, useState } from 'react'
-
 import Login from './modules/Auth/Login'
 import Register from './modules/Auth/Register'
 import Dashboard from './modules/Dashboard/Dashboard'
